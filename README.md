@@ -1,7 +1,7 @@
 # Hi there, I'm Duncan! 👋 
 
-### 🚀 About Me
-I am a **Computer Science student majoring in Software Technology at De La Salle University**.
+### 🚀 About Me:
+I am a **Computer Science student majoring in Software Technology at De La Salle University - Manila Campus**.
 
 ---
 
