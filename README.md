@@ -36,7 +36,7 @@ I am a **Computer Science student majoring in Software Technology at De La Salle
 
 ---
 
-### 📈 Previous Project
+### 📈 Previous Project:
 
 #### 🍹 Mingle Mobile Bar Web Platform
 * **Role:** Front-End Developer & UI Designer 
