@@ -1,6 +1,6 @@
 # Hi there, I'm Duncan! 👋 
 
-### 🚀 Computer Science Student & Front-End Developer
+### 🚀 About Me
 I am a **Computer Science student majoring in Software Technology at De La Salle University**.
 
 ---
